@@ -1,0 +1,18 @@
+Follow the steps for installing pytorch
+
+Create corresponding env
+
+conda create --name pytorch python=3
+
+Next activate the env
+
+conda active pytorch
+
+Then install the require packages:
+
+pip install torch
+pip install numpy
+pip install pandas
+pip install scikit-learn
+
+And more if according to requirement
